@@ -1,3 +1,9 @@
 Bonjour,
 
 Je vous invite à découvrir quelques fonctions de Git.
+
+Nous allons voir :
+
+	- Ce qu'est un commit
+	- A quoi sert la commande git log
+	- Ce qu'est une branche
